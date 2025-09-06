@@ -2,6 +2,7 @@ Credit_Card_Financial_Dashboard
 Data Analytics Project using Power BI
 
   #Insights
+  
 🔹 Transaction & Revenue Trend
 
 Total Revenue: $55M | Total Interest Earned: $7.8M | Total Transactions: 655K+
